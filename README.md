@@ -33,4 +33,7 @@ Due to file size constrain, only some sample data are uploaded here.
 ## Contact
 Jurdana Masuma Iqrah - [jurdana.masuma@gmail.com](mailto:jurdana.masuma@gmail.com)
 
+Paper - In proceedings 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+Paper Link - [https://arxiv.org/abs/2502.02700](https://arxiv.org/abs/2502.02700)
+
 Project Link: [https://github.com/jmiqra/Sentinel-2_Sea-Ice_Classification](https://github.com/jmiqra/Sentinel-2_Sea-Ice_Classification.git)
